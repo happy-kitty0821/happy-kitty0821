@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/happy-kitty.com/happy-kitty0821/blob/main/snake.svg"
+  <img  src="https://github.com/happy-kitty/happy-kitty0821/blob/main/snake.svg"
        alt="snake" /></a>
 </div>
 
