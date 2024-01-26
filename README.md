@@ -25,7 +25,7 @@
 
 ## About Me
 
-- 🔭 Currently working on: **AWS, FrontEnd, Competitive Hacking, Pentesting, CTFs, Django, MongoDB, Machine Learning, Networking**.
+- 🔭 Currently working on: **AWS, FrontEnd, Competitive Hacking, Pentesting, CTFs, Django, Machine Learning, Networking**.
 
 - 🌱 Learning: **Machine Learning, Web App Pentesting, Red Teaming, and DevOps**.
 
