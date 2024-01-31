@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -80,7 +79,7 @@
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,rust,css,django,docker,github,html,java,js,linux,md,mysql,python,vscode,php,bash,kubernetes,scikitlearn,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,rust,css,django,docker,github,html,java,js,linux,md,mysql,python,vscode,php,bash,kubernetes,scikitlearn&perline=14" />
 </a>
 
 </p>
@@ -105,9 +104,7 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=happy-kitty0821&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
-  
+[![](https://visitcount.itsvg.in/api?id=happy-kitty0821&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)  
 </div>
 
 <!--horizontal divider(gradiant)-->
