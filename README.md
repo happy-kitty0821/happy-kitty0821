@@ -27,7 +27,7 @@
 
 - 🔭 Currently working on: **AWS, FrontEnd, Competitive Hacking, Pentesting, CTFs, Django, Machine Learning, Networking**.
 
-- 🌱 Learning: **Machine Learning, Web App Pentesting, Red Teaming, and DevOps**.
+- 🌱 Learning: **Machine Learning, Web App Pentesting, Red Teaming, Rust and DevOps**.
 
 - ☁️ Keen interest in Cybersecurity, particularly in **Pentesting**.
 
