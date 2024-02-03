@@ -29,7 +29,7 @@
 
 - 🌱 Learning: **Machine Learning, Web App Pentesting, Red Teaming, Rust and DevOps**.
 
-- ☁️ Keen interest in Cybersecurity, particularly in **Pentesting**.
+- ☁️ Keen interest in Cybersecurity, particularly in **Pentesting and red teaming**.
 
 - 💬 Ask me about: **Cybersecurity, Networking**.
 
