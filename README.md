@@ -61,7 +61,7 @@
 <div style="background: rgba(13, 17, 23, 0.05); padding: 25px; border-radius: 10px; margin: 20px 0 30px 0; box-shadow: 0 8px 24px rgba(99, 102, 241, 0.1);">
   <!-- Main Stats -->
   <div align="center" style="margin-bottom: 25px;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=happy-kitty0821&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&title_color=6366F1&text_color=A9B1D6&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=happy-kitty0821&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&title_color=6366F1&text_color=A9B1D6&count_private=true" width="49%" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com?user=happy-kitty0821&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" alt="GitHub Streak" />
   </div>
 
