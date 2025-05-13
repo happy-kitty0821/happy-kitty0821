@@ -58,7 +58,62 @@
 </tr>
 </table>
 <!--- stats (end) -->
+<div style="background: rgba(13, 17, 23, 0.05); padding: 25px; border-radius: 10px; margin: 20px 0 30px 0; box-shadow: 0 8px 24px rgba(99, 102, 241, 0.1);">
+  <!-- Main Stats -->
+  <div align="center" style="margin-bottom: 25px;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=happy-kitty0821&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366F1&title_color=6366F1&text_color=A9B1D6&count_private=true" width="49%" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=happy-kitty0821&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" alt="GitHub Streak" />
+  </div>
 
+  <!-- Activity Graph -->
+  <div align="center" style="margin: 25px 0;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happy-kitty0821&theme=tokyonight" width="98%" alt="Activity Graph" />
+  </div>
+
+  <!-- Languages and Trophies -->
+  <div align="center" style="margin-bottom: 25px;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=happy-kitty0821&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=A9B1D6&langs_count=8" width="49%" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=happy-kitty0821&theme=discord&no-frame=true&column=3&row=2" width="49%" alt="GitHub Trophies" />
+  </div>
+
+  <!-- Additional Stats Cards -->
+<div align="center">
+  <h2>📊 Detailed GitHub Analytics</h2>
+  <div>
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=happy-kitty0821&theme=tokyonight&utcOffset=8">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=happy-kitty0821&theme=tokyonight&utcOffset=8" width="49%" alt="Productive Time" />
+    </a>
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=happy-kitty0821&theme=tokyonight">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=happy-kitty0821&theme=tokyonight" width="49%" alt="Repos per Language" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=happy-kitty0821&theme=tokyonight">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=happy-kitty0821&theme=tokyonight" width="49%" alt="Most Commit Language" />
+    </a>
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=happy-kitty0821&theme=tokyonight">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=happy-kitty0821&theme=tokyonight" width="49%" alt="Stats" />
+    </a>
+  </div>
+</div>
+
+<div align="center">
+  <h2>📅 Contribution Calendar</h2>
+  <a href="https://github.com/happy-kitty0821">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=happy-kitty0821&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=6366F1&point=FFFFFF&area=true&area_color=6366F1" width="98%" alt="Contribution Graph" />
+  </a>
+</div>
+
+
+<div align="center">
+  <h2>💭 Favorite Quote</h2>
+</div>
+
+<div style="background: rgba(13, 17, 23, 0.05); padding: 25px; border-radius: 10px; margin: 20px 0 30px 0; box-shadow: 0 8px 24px rgba(99, 102, 241, 0.1);">
+  <div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="98%"/>
+  </div>
+</div>
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
